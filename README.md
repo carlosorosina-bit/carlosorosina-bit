@@ -10,14 +10,9 @@ Nei miei scritti esploro la memoria, le relazioni umane, l'importanza dei piccol
 
 Il Lago d'Iseo, il Sebino e la vita quotidiana rappresentano una fonte costante di ispirazione per la mia scrittura.
 
-## Opere
+## Opera pubblicata
 
 📖 *Appunti nell'anima. Riflessi sul lago del cuore*
-
-📚 Altri progetti editoriali:
-- Le onde della memoria
-- Le dita birichine
-- Il Fruttivendolo Bibi e Bibò
 
 ## Temi ricorrenti
 
@@ -31,7 +26,7 @@ Il Lago d'Iseo, il Sebino e la vita quotidiana rappresentano una fonte costante 
 ## Collegamenti
 
 🌐 Sito autore  
-https://carlosorosina-bit.github.io/
+https://carlosorosina-bit.github.io/carlosorosina.github.io/
 
 📘 Goodreads Author  
 https://www.goodreads.com/author/show/72380501.Carlo_Sorosina
@@ -39,8 +34,6 @@ https://www.goodreads.com/author/show/72380501.Carlo_Sorosina
 💼 LinkedIn  
 https://www.linkedin.com/in/carlo-sorosina-738378a6/
 
-📚 Anobii  
-https://www.anobii.com/
 
 ## Questo repository
 
