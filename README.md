@@ -1,4 +1,7 @@
 # Carlo Sorosina
+[![Sito Autore](https://img.shields.io/badge/Sito%20Autore-Carlo%20Sorosina-2ea44f)](https://carlosorosina-bit.github.io/carlosorosina.github.io/)
+[![Appunti nell'anima](https://img.shields.io/badge/Libro-Appunti%20nell%27anima-blue)](https://carlosorosina-bit.github.io/carlosorosina.github.io/libro-appunti-anima.html)
+[![Goodreads Author](https://img.shields.io/badge/Goodreads-Author-372213)](https://www.goodreads.com/author/show/72380501.Carlo_Sorosina)
 
 **Scrittore dei piccoli gesti, della memoria e delle tracce che il tempo lascia nelle persone e nei luoghi.**
 
