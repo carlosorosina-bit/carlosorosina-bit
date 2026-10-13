@@ -37,4 +37,4 @@ https://www.linkedin.com/in/carlo-sorosina-738378a6/
 
 ## Questo repository
 
-Questo è il repository del profilo GitHub di Carlo Sorosina. Il sito autore e le relative pagine sono ospitati nel repository dedicato GitHub Pages.
+Questo repository contiene il README pubblico del profilo GitHub. Il sito autore e le relative pagine sono ospitati nel repository GitHub Pages dedicato.
