@@ -9,22 +9,28 @@ Benvenuto nel mio spazio GitHub. Qui ospito il sito autore e i progetti web dedi
 
 ## Chi sono
 
-Nei miei scritti esploro la memoria, le relazioni umane, l'importanza dei piccoli gesti e il modo in cui il tempo lascia segni nelle persone e nei luoghi.
+Nei miei scritti esploro la memoria, i legami umani e le tracce che il tempo lascia nelle persone e nei luoghi.
 
-Il Lago d'Iseo, il Sebino e la vita quotidiana rappresentano una fonte costante di ispirazione per la mia scrittura.
+Nato a Bergamo e legato al territorio del Lago d'Iseo e del Sebino, osservo la quotidianità attraverso i piccoli gesti, gli incontri e i ricordi che continuano a vivere dentro di noi.
+
+Attraverso poesia, aforismi e riflessioni racconto ciò che resta: le emozioni, le attese e i luoghi che accompagnano la nostra storia personale.
 
 ## Opera pubblicata
 
 📖 *Appunti nell'anima. Riflessi sul lago del cuore*
+Raccolta di poesie, aforismi e riflessioni dedicate alla memoria, ai legami umani e ai luoghi che continuano a vivere dentro di noi.
 
-## Temi ricorrenti
+## Temi della mia scrittura
 
-- Memoria
+- Memoria e ricordo
 - Relazioni umane
 - Piccoli gesti quotidiani
 - Attesa e speranza
-- Territorio e identità
+- Lago d'Iseo e territorio
+- Luoghi che diventano memoria
 - Tracce del tempo
+
+Se desideri conoscere il mio percorso autoriale, leggere approfondimenti sui libri o seguire le attività culturali e le presentazioni, puoi visitare il sito autore.
 
 ## Collegamenti
 
