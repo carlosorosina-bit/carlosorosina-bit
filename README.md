@@ -12,7 +12,7 @@ Benvenuto nel mio spazio GitHub. Qui ospito il sito autore e i progetti web dedi
 
 ## Chi sono
 
-Nei miei scritti esploro la memoria, i legami umani e le tracce che il tempo lascia nelle persone e nei luoghi.
+Nei miei scritti esploro i legami umani, il valore della quotidianità e il modo in cui i ricordi continuano ad accompagnare la nostra vita.
 
 Nato a Bergamo e legato al territorio del Lago d'Iseo e del Sebino, osservo la quotidianità attraverso i piccoli gesti, gli incontri e i ricordi che continuano a vivere dentro di noi.
 
@@ -31,7 +31,7 @@ Raccolta di poesie, aforismi e riflessioni dedicate alla memoria, ai legami uman
 - Piccoli gesti quotidiani
 - Attesa e speranza
 - Lago d'Iseo e territorio
-- Luoghi che diventano memoria
+- Luoghi dell'anima
 - Tracce del tempo
 
 Se desideri conoscere il mio percorso autoriale, leggere approfondimenti sui libri o seguire le attività culturali e le presentazioni, puoi visitare il sito autore.
