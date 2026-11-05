@@ -1,9 +1,9 @@
 # Carlo Sorosina
 Scrittore italiano nato a Bergamo, autore di poesie, aforismi e riflessioni dedicate alla memoria, ai legami umani e ai luoghi che continuano a vivere dentro di noi.
 
-[![Sito Autore](https://img.shields.io/badge/Sito%20Autore-Carlo%20Sorosina-2ea44f)](https://carlosorosina-bit.github.io/carlosorosina.github.io/)
-[![Appunti nell'anima](https://img.shields.io/badge/Libro-Appunti%20nell%27anima-blue)](https://carlosorosina-bit.github.io/carlosorosina.github.io/libro-appunti-anima.html)
-[![Goodreads Author](https://img.shields.io/badge/Goodreads-Author-372213)](https://www.goodreads.com/author/show/72380501.Carlo_Sorosina)
+[![Sito Autore](https://img.shields.io/badge/Sito_Autore-Carlo_Sorosina-2ea44f?style=for-the-badge)](https://carlosorosina-bit.github.io/carlosorosina.github.io/)
+[![Appunti nell'anima](https://img.shields.io/badge/Appunti_nell'anima-Libro-1f6feb?style=for-the-badge)](https://carlosorosina-bit.github.io/carlosorosina.github.io/libro-appunti-anima.html)
+[![Goodreads](https://img.shields.io/badge/Goodreads-Author-372213?style=for-the-badge&logo=goodreads)](https://www.goodreads.com/author/show/72380501.Carlo_Sorosina)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo_Sorosina-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlo-sorosina-738378a6/)
 
 **Scrittore dei piccoli gesti, della memoria e delle tracce che il tempo lascia nelle persone e nei luoghi.**
