@@ -1,4 +1,6 @@
 # Carlo Sorosina
+Scrittore italiano nato a Bergamo, autore di poesie, aforismi e riflessioni dedicate alla memoria, ai legami umani e ai luoghi che continuano a vivere dentro di noi.
+
 [![Sito Autore](https://img.shields.io/badge/Sito%20Autore-Carlo%20Sorosina-2ea44f)](https://carlosorosina-bit.github.io/carlosorosina.github.io/)
 [![Appunti nell'anima](https://img.shields.io/badge/Libro-Appunti%20nell%27anima-blue)](https://carlosorosina-bit.github.io/carlosorosina.github.io/libro-appunti-anima.html)
 [![Goodreads Author](https://img.shields.io/badge/Goodreads-Author-372213)](https://www.goodreads.com/author/show/72380501.Carlo_Sorosina)
@@ -47,4 +49,5 @@ https://www.linkedin.com/in/carlo-sorosina-738378a6/
 
 ## Questo repository
 
-Questo repository contiene il README pubblico del profilo GitHub. Il sito autore e le relative pagine sono ospitati nel repository GitHub Pages dedicato.
+Questo repository contiene il profilo pubblico GitHub di Carlo Sorosina.
+Per il sito autore completo, la presentazione dei libri, gli aggiornamenti e le attività culturali è possibile consultare il progetto GitHub Pages dedicato.
