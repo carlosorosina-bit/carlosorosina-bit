@@ -18,6 +18,7 @@ Attraverso poesia, aforismi e riflessioni racconto ciò che resta: le emozioni, 
 ## Opera pubblicata
 
 📖 *Appunti nell'anima. Riflessi sul lago del cuore*
+
 Raccolta di poesie, aforismi e riflessioni dedicate alla memoria, ai legami umani e ai luoghi che continuano a vivere dentro di noi.
 
 ## Temi della mia scrittura
