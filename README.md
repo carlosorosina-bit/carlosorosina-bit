@@ -1,54 +1,38 @@
 # Carlo Sorosina
-Scrittore italiano nato a Bergamo, autore di poesie, aforismi e riflessioni dedicate alla memoria, ai legami umani e ai luoghi che continuano a vivere dentro di noi.
-
-[![Sito Autore](https://img.shields.io/badge/Sito_Autore-Carlo_Sorosina-2ea44f?style=for-the-badge)](https://carlosorosina-bit.github.io/carlosorosina.github.io/)
-[![Appunti nell'anima](https://img.shields.io/badge/Appunti_nell'anima-Libro-1f6feb?style=for-the-badge)](https://carlosorosina-bit.github.io/carlosorosina.github.io/libro-appunti-anima.html)
-[![Goodreads](https://img.shields.io/badge/Goodreads-Author-372213?style=for-the-badge&logo=goodreads)](https://www.goodreads.com/author/show/72380501.Carlo_Sorosina)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlo_Sorosina-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carlo-sorosina-738378a6/)
 
 **Scrittore dei piccoli gesti, della memoria e delle tracce che il tempo lascia nelle persone e nei luoghi.**
 
-Benvenuto nel mio spazio GitHub. Qui ospito il sito autore e i progetti web dedicati ai miei libri.
+Sono uno scrittore italiano nato a Bergamo. Nei miei testi esploro la memoria, i legami umani e il valore dei piccoli gesti della quotidianità.
 
-## Chi sono
+Il Lago d'Iseo e il Sebino sono presenze importanti nel mio immaginario: luoghi reali che custodiscono ricordi, incontri e tracce del tempo. Attraverso poesie, aforismi e riflessioni cerco di dare voce a ciò che resta nelle persone e nei luoghi.
 
-Nei miei scritti esploro i legami umani, il valore della quotidianità e il modo in cui i ricordi continuano ad accompagnare la nostra vita.
+## Il mio libro
 
-Nato a Bergamo e legato al territorio del Lago d'Iseo e del Sebino, osservo la quotidianità attraverso i piccoli gesti, gli incontri e i ricordi che continuano a vivere dentro di noi.
+**Appunti nell'anima. Riflessi sul lago del cuore**
 
-Attraverso poesia, aforismi e riflessioni racconto ciò che resta: le emozioni, le attese e i luoghi che accompagnano la nostra storia personale.
+Silele Edizioni, 2026.
 
-## Opera pubblicata
+Una raccolta di poesie, aforismi e riflessioni che attraversa memoria, affetti, assenza, attesa e speranza. Il Lago d'Iseo è il luogo reale e simbolico da cui prende forma lo sguardo interiore del libro.
 
-📖 *Appunti nell'anima. Riflessi sul lago del cuore*
-
-Raccolta di poesie, aforismi e riflessioni dedicate alla memoria, ai legami umani e ai luoghi che continuano a vivere dentro di noi.
+[Leggi la scheda del libro](https://carlosorosina-bit.github.io/carlosorosina.github.io/libro-appunti-anima.html).
 
 ## Temi della mia scrittura
 
-- Memoria e ricordo
-- Relazioni umane
-- Piccoli gesti quotidiani
-- Attesa e speranza
-- Lago d'Iseo e territorio
-- Luoghi dell'anima
-- Tracce del tempo
+- Memoria e legami umani.
+- Piccoli gesti e quotidianità.
+- Tracce del tempo, assenza e attesa.
+- Affetti e speranza.
+- Lago d'Iseo, Sebino e paesaggio.
 
-Se desideri conoscere il mio percorso autoriale, leggere approfondimenti sui libri o seguire le attività culturali e le presentazioni, puoi visitare il sito autore.
+## Sito e profili
 
-## Collegamenti
-
-🌐 Sito autore  
-https://carlosorosina-bit.github.io/carlosorosina.github.io/
-
-📘 Goodreads Author  
-https://www.goodreads.com/author/show/72380501.Carlo_Sorosina
-
-💼 LinkedIn  
-https://www.linkedin.com/in/carlo-sorosina-738378a6/
-
+- [Sito ufficiale](https://carlosorosina-bit.github.io/carlosorosina.github.io/)
+- [Intervista ed estratto su Writer Officina](https://carlosorosina-bit.github.io/carlosorosina.github.io/writer-officina-carlo-sorosina.html)
+- [Goodreads — Profilo autore](https://www.goodreads.com/author/show/72380501.Carlo_Sorosina)
+- [LinkedIn — Carlo Sorosina](https://www.linkedin.com/in/carlo-sorosina-738378a6/)
 
 ## Questo repository
 
-Questo repository contiene il profilo pubblico GitHub di Carlo Sorosina.
-Per il sito autore completo, la presentazione dei libri, gli aggiornamenti e le attività culturali è possibile consultare il progetto GitHub Pages dedicato.
+Questo repository contiene il README che GitHub utilizza per presentare il mio profilo pubblico.
+
+Il sito ufficiale e le relative pagine sono pubblicati nel [repository dedicato al sito autore](https://github.com/carlosorosina-bit/carlosorosina.github.io).
